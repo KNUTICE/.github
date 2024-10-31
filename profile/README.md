@@ -1,4 +1,4 @@
-## Hi there 👋
+![Group 4](https://github.com/user-attachments/assets/b005ad8c-55d5-4222-b567-ab91ef09ef2b)
 
 <!--
 
