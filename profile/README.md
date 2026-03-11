@@ -15,7 +15,7 @@
 
 지금, KNUTICE와 함께 한층 더 스마트한 캠퍼스 라이프를 경험하세요.
 
-<img width="2000" height="830" alt="KNUTICE_AI_beta" src="https://github.com/user-attachments/assets/2dc28e15-30d6-42be-ad52-d5c8d932b7a8" />
+<img width="2000" height="830" alt="KNUTICE_AI_beta" src="https://github.com/user-attachments/assets/e0b2d5e1-409b-451c-8fd9-6df7692c2687" />
 
 ## 🚀 KNUTICE의 혁신은 여기서 끝나지 않습니다.
 
