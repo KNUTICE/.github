@@ -1,4 +1,4 @@
-<img width="2400" height="1800" alt="KNUTICE_Main" src="https://github.com/user-attachments/assets/93d4e43b-3c9b-4151-98ef-8d2250165e12" />
+<img width="2400" height="1800" alt="KNUTICE_Main" src="https://github.com/user-attachments/assets/547b72f4-e2fc-40b3-9adc-b5a22a99e357" />
 
 ## 🔊 스마트한 캠퍼스 생활의 시작, KNUTICE
 
